@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-07 22:24:03,url
+2025-04-08 10:40:00,url
 ☘️北京频道,#genre#
 卡酷少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
 📺央视频道,#genre#
@@ -279,8 +279,4 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 云南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
 港·澳·台,#genre#
 🎬电影频道,#genre#
-CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
-CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$LR•IPV6『线路1』
-CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
-NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 咪咕直播,#genre#
